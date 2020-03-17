@@ -21,3 +21,6 @@ For this project we are using the v2.0 dataset and a classical CNN-LSTM model wh
 7. Train both vqa models
 
 8. Compare performance
+
+## Data
+The complete dataset is stored in our server, since it's a very large amount of data. The text features can be retrieved from visualvqa.org and the image features from the github repository https://github.com/peteanderson80/bottom-up-attention
