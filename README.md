@@ -7,10 +7,17 @@ For this project we are using the v2.0 dataset and a classical CNN-LSTM model wh
 ## Table of contents:
 
 We load the libraries
+
 We load the image embeddings (trained on MSCOCO dataset)
+
 Getting image features
+
 Getting text features (v2.0 dataset). We load word Embeddings. We upload the spacy English model for Glove vectors and try the embeddings with examples.
+
 VQA Model - LSTM
+
 VQA Model - LSTM with attention
+
 Train both vqa models
+
 Compare performance
